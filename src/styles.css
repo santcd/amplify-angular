@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+:root {
+    --amplify-primary-color: #e9493d;
+    --amplify-primary-tint: #ff7359;
+    --amplify-primary-shade: #e0573e;
+  }
+  :host {
+    --container-height: 10hv;
+  }
+
+  form{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 10%;
+  }
